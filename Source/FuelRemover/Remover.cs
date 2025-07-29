@@ -20,6 +20,7 @@ public class StockFuelRemover : MonoBehaviour
         GameEvents.onEditorShipModified.Add(OnShipModified);
         GameEvents.onEditorLoad.Add(OnEditorLoad);
 
+        // Print Log
         // Debug.Log("[StockFuelRemover] Plugin activated");
     }
 
