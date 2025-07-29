@@ -15,3 +15,5 @@ Features:
 
 ## Installation
 The installation process is the same as other mods. Just put the **StockFuelRemover** folder from GameData into the GameData in the game root directory. 
+
+![Imgur](https://imgur.com/gTXCXzu.jpg)
