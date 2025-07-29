@@ -1,5 +1,7 @@
 # StockFuelRemover
 
+![Imgur](https://imgur.com/kEcdlrK.jpg)
+
 ## Introduction
 
 This plugin automatically removes deprecated fuel resources when loading craft files in VAB/SPH. When installing the [Chemical Technologies](https://forum.kerbalspaceprogram.com/topic/227705-112x-chemical-technologies-a-chemically-based-resource-overhaul-2025-07-22/) mod and its dependencies, previously saved craft files contain legacy fuel resources (MonoPropellant, LiquidFuel, Oxidizer, SolidFuel) that are no longer used by the new system. Instead of manually adjusting each part, this plugin automatically detects and removes these obsolete fuels upon craft loading, ensuring your vessels are compatible with the Chemical Propulsion mod without any manual intervention.
